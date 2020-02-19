@@ -1,3 +1,8 @@
 datasets
 .idea
 venv
+submit_lstm-checkpoint.csv
+ThePurchaseAndRedemption/stock-lstm-p-model.pt
+ThePurchaseAndRedemption/stock-lstm-r-model.pt
+ThePurchaseAndRedemption/submit_lstm.csv
+ThePurchaseAndRedemption/submit_lstm1.csv
